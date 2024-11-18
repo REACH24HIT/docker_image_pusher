@@ -1,1 +1,2 @@
 sameersbn/bind:latest
+dreamacro/clash-premium:latest
