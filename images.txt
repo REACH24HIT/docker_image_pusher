@@ -1,3 +1,4 @@
 sameersbn/bind:latest
 dreamacro/clash-premium:latest
 mvance/unbound:latest
+irinesistiana/mosdns:latest
