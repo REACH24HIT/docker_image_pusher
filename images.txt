@@ -3,4 +3,4 @@ dreamacro/clash-premium:latest
 mvance/unbound:latest
 irinesistiana/mosdns:latest
 docker.io/library/python:3.9-slim
-curiouser/openvpn-manager:v1
+strongswan/strongswan
