@@ -3,4 +3,4 @@ dreamacro/clash-premium:latest
 mvance/unbound:latest
 irinesistiana/mosdns:latest
 docker.io/library/python:3.9-slim
-strongswan/strongswan
+ghcr.io/azicen/clash-verge-rev:latest
